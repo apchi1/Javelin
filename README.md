@@ -12,6 +12,8 @@ Experience sharing service for students primary
 - [ ] apart of messaging between users
 
 # Special Functions:
-- [ ] integration with blockchain  
-- [ ] 
+- [ ] integration with blockchain
+...
+
+![pattern of site](./site.jpg)
 
