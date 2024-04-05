@@ -15,5 +15,7 @@ Experience sharing service for students primary
 - [ ] integration with blockchain
 ...
 
+
+## Pattern of Site:
 ![pattern of site](./site.jpg)
 
