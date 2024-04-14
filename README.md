@@ -17,5 +17,5 @@ Experience sharing service for students primary
 
 
 ## Pattern of Site:
-![pattern of site](./site.jpg)
+![pattern of site](./.analysis-docs/site_appearance/site.jpg)
 
